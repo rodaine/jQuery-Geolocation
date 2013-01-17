@@ -1,0 +1,24 @@
+{
+	"name": "Geolocation",
+	"version": "1.0.0",
+	"title": "jQuery Geolocation",
+	"description": "A small jQuery wrapper plugin for the JavaScript Geolocation API",
+	"author": {
+		"name": "Chris Roche",
+		"email": "rodaine+jquery@gmail.com",
+		"url": "http://github.com/rodaine/"
+	},
+	"dependencies": {
+		"jquery": ">=1.0"
+	},
+	"homepage": "https://github.com/rodaine/jQuery-Geolocation",
+	"files": [
+		"jquery.geolocate.min.js"
+	],
+	"licenses": [
+		{
+			"type": "GPLv3",
+			"url": "http://www.gnu.org/licenses/gpl.txt"
+		}
+	]
+}
