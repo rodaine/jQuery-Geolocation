@@ -26,7 +26,7 @@ jQuery(function($) {
 });
 ```
 
-See `demo.html` for a functional demo. __NOTE__: Depending on your browser, the Geolocation API might not be viewing the demo via `file://`.
+See `demo.html` for a functional demo. __NOTE__: Depending on your browser, the Geolocation API might not be accessible via `file://`.
 
 ## Options
 
