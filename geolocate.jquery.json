@@ -1,5 +1,5 @@
 {
-	"name": "geolocate.jquery.json",
+	"name": "geolocate",
 	"version": "1.0.1",
 	"title": "jQuery Geolocation",
 	"description": "A small jQuery wrapper plugin for the JavaScript Geolocation API",
